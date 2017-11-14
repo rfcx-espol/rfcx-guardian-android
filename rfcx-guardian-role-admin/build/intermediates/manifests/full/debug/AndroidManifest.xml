@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="org.rfcx.guardian.admin"
+    android:versionCode="1"
+    android:versionName="0.5.0" >
+
+    <uses-sdk
+        android:minSdkVersion="10"
+        android:targetSdkVersion="19" />
+
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.SET_TIME_ZONE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.WRITE_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.BLUETOOTH_ADMIN" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_INTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_LOGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+    <uses-permission android:name="org.rfcx.guardian.READ" />
+    <uses-permission android:name="org.rfcx.guardian.WRITE" />
+
+    <permission
+        android:name="org.rfcx.guardian.READ"
+        android:protectionLevel="signature" />
+    <permission
+        android:name="org.rfcx.guardian.WRITE"
+        android:protectionLevel="signature" />
+
+    <application
+        android:name="admin.RfcxGuardian"
+        android:allowBackup="true"
+        android:icon="@drawable/icon_guardian_admin"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+
+        <!-- IntentServices -->
+
+        <activity
+            android:name="admin.activity.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <!-- Services -->
+        <service android:name="admin.service.ScreenShotJobService" />
+        <service android:name="admin.service.AirplaneModeOffJobService" />
+        <service android:name="admin.service.AirplaneModeOnJobService" />
+        <service android:name="admin.service.I2cResetPermissionsJobService" />
+        <service android:name="admin.service.RebootTriggerJobService" />
+
+        <!-- IntentServices -->
+        <service android:name="admin.ServiceMonitor" />
+
+        <receiver android:name="admin.receiver.BootReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+
+        <provider
+            android:name="admin.contentprovider.AdminContentProvider"
+            android:authorities="org.rfcx.guardian.admin"
+            android:exported="true"
+            android:readPermission="org.rfcx.guardian.READ"
+            android:writePermission="org.rfcx.guardian.WRITE" />
+    </application>
+
+</manifest>

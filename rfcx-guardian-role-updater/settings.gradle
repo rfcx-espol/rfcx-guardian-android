@@ -1,0 +1,2 @@
+include 'rfcx-guardian-lib-utility'
+project(':rfcx-guardian-lib-utility').projectDir = new File(settingsDir, '../rfcx-guardian-lib-utility')

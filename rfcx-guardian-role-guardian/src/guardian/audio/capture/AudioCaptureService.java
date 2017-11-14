@@ -84,7 +84,7 @@ public class AudioCaptureService extends Service {
 			//int prefsAudioScheduleOffHours = app.rfcxPrefs.getPrefAsInt("audio_schedule_off_hours");
 
 			long captureTimeStamp;
-			AudioCaptureWavRecorder wavRecorder;
+			AudioCaptureWavRecorder wavRecorder=null;
 			boolean isBatteryChargeSufficientForCapture = app.audioCaptureUtils.isBatteryChargeSufficientForCapture();
 			boolean isCaptureAllowedAtThisTimeOfDay = app.audioCaptureUtils.isCaptureAllowedAtThisTimeOfDay();
 		

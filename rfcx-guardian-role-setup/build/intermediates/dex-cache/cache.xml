@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-setup/build/intermediates/exploded-aar/rfcx-guardian-role-setup/rfcx-guardian-lib-utility/unspecified/libs/jtar-1.1.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="3852e8d03269dfdb3500175cb09fd7c47a6b4515">
+        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-setup/build/intermediates/pre-dexed/debug/jtar-1.1-619e70e15a8a274c0f6d64c252197aca7dcdd14d.jar" />
+    </item>
+    <item
+        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-setup/libs/httpmime-4.2.5.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-setup/build/intermediates/pre-dexed/release/httpmime-4.2.5-1ff518e88430c8805cbbdf8ff4ac5f8fc3d8011f.jar" />
+    </item>
+    <item
+        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-setup/build/intermediates/exploded-aar/rfcx-guardian-role-setup/rfcx-guardian-lib-utility/unspecified/libs/httpmime-4.2.5.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-setup/build/intermediates/pre-dexed/debug/httpmime-4.2.5-4c84edc8d4db811c7251fd0888dcec44dee72076.jar" />
+    </item>
+    <item
+        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-setup/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-setup/build/intermediates/pre-dexed/debug/android-support-v4-fded16a71c21ccb787c63a1738cae3903afaefe5.jar" />
+    </item>
+    <item
+        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-setup/build/intermediates/exploded-aar/rfcx-guardian-role-setup/rfcx-guardian-lib-utility/unspecified/classes.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="6c559a400d5e955c90fac3059bb8ceb0396f60c5">
+        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-setup/build/intermediates/pre-dexed/debug/classes-c4e94d54efa1126aee9b9f383787e67a095dff28.jar" />
+    </item>
+
+</items>

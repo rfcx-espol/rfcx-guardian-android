@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/exploded-aar/rfcx-guardian-role-updater/rfcx-guardian-lib-utility/unspecified/classes.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="7e9d59f62e507cf917393286d925b4ccc1c4fbd2">
+        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/debug/classes-8731f8df9b205a7edd227fd0b7fb13eff5fece55.jar" />
+    </item>
+    <item
+        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/exploded-aar/rfcx-guardian-role-updater/rfcx-guardian-lib-utility/unspecified/libs/jtar-1.1.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="3852e8d03269dfdb3500175cb09fd7c47a6b4515">
+        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/debug/jtar-1.1-6b66f13305f33a256c93c8d56794ed3fd98e414b.jar" />
+    </item>
+    <item
+        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/exploded-aar/rfcx-guardian-role-updater/rfcx-guardian-lib-utility/unspecified/libs/httpmime-4.2.5.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/debug/httpmime-4.2.5-89f7ceb046701b83157dc686ba693d37f2bba2cb.jar" />
+    </item>
+    <item
+        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/libs/android-support-v4.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
+        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/debug/android-support-v4-768766f48836f382360f57e5402648002d3f7e61.jar" />
+    </item>
+
+</items>
