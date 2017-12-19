@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-guardian/libs/android-support-v4.jar"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-guardian\build\intermediates\exploded-aar\rfcx-guardian-role-guardian\rfcx-guardian-lib-utility\unspecified\libs\android-support-v4.jar"
         jumboMode="false"
         revision="27.0.0"
         sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
-        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-guardian/build/intermediates/pre-dexed/debug/android-support-v4-6994fb0b093e29d215ccd49e68906aa9a998ae6b.jar" />
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-guardian\build\intermediates\pre-dexed\debug\android-support-v4-cc905eb5a035d44429c4e689fbff92a5977a658c.jar" />
     </item>
     <item
-        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-guardian/build/intermediates/exploded-aar/rfcx-guardian-role-guardian/rfcx-guardian-lib-utility/unspecified/classes.jar"
-        jumboMode="false"
-        revision="27.0.0"
-        sha1="7df2ecb751063684857b38a1de07c0be44f48c4a">
-        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-guardian/build/intermediates/pre-dexed/debug/classes-dec893ef076c6335b550044fe35589dcb8b4abf0.jar" />
-    </item>
-    <item
-        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-guardian/build/intermediates/exploded-aar/rfcx-guardian-role-guardian/rfcx-guardian-lib-utility/unspecified/libs/httpmime-4.2.5.jar"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-guardian\build\intermediates\exploded-aar\rfcx-guardian-role-guardian\rfcx-guardian-lib-utility\unspecified\libs\httpmime-4.2.5.jar"
         jumboMode="false"
         revision="27.0.0"
         sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
-        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-guardian/build/intermediates/pre-dexed/debug/httpmime-4.2.5-fd1a8c2d653b93d19dde9f7bbc357564e7e135ca.jar" />
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-guardian\build\intermediates\pre-dexed\debug\httpmime-4.2.5-212a3b3990436b7e2af2f8514e89c1a8cede08ba.jar" />
     </item>
     <item
-        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-guardian/build/intermediates/exploded-aar/rfcx-guardian-role-guardian/rfcx-guardian-lib-audio/unspecified/classes.jar"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-guardian\build\intermediates\exploded-aar\rfcx-guardian-role-guardian\rfcx-guardian-lib-audio\unspecified\classes.jar"
         jumboMode="false"
         revision="27.0.0"
-        sha1="017f23fc6f94d7d77f3b44cf72d7d732db25baab">
-        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-guardian/build/intermediates/pre-dexed/debug/classes-93b731995abbfb116d8f48d089f36af13607b789.jar" />
+        sha1="79f94e96df26002999293745cf1c0b1c416af055">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-guardian\build\intermediates\pre-dexed\debug\classes-cde80a8da0253dff538ae87d4cb83dfc03d91928.jar" />
     </item>
     <item
-        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-guardian/build/intermediates/exploded-aar/rfcx-guardian-role-guardian/rfcx-guardian-lib-utility/unspecified/libs/jtar-1.1.jar"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-guardian\build\intermediates\exploded-aar\rfcx-guardian-role-guardian\rfcx-guardian-lib-utility\unspecified\libs\jtar-1.1.jar"
         jumboMode="false"
         revision="27.0.0"
         sha1="3852e8d03269dfdb3500175cb09fd7c47a6b4515">
-        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-guardian/build/intermediates/pre-dexed/debug/jtar-1.1-f57882c8a0a67a9f4962bb558d39cba9e4af53aa.jar" />
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-guardian\build\intermediates\pre-dexed\debug\jtar-1.1-0e027aa52ed9fe9178d16d38812374f84230bc7f.jar" />
+    </item>
+    <item
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-guardian\build\intermediates\exploded-aar\rfcx-guardian-role-guardian\rfcx-guardian-lib-utility\unspecified\classes.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="de31e09557cb9c986d8f5a36dbf0b555de7e46b7">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-guardian\build\intermediates\pre-dexed\debug\classes-1d71e25d7b4e87095eb36b85d9af9d6bf6073b8a.jar" />
     </item>
 
 </items>

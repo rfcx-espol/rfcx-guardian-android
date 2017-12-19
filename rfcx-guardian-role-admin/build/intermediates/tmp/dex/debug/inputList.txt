@@ -1,5 +1,5 @@
-/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-admin/build/intermediates/classes/debug
-/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-admin/build/intermediates/pre-dexed/debug/jtar-1.1-61e8561b22ded9bdae6e7f80379f962eec38f94b.jar
-/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-admin/build/intermediates/pre-dexed/debug/httpmime-4.2.5-02f8e0e75210379d3d6459e79f6458a38feef0d9.jar
-/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-admin/build/intermediates/pre-dexed/debug/classes-9eaad7f109ce5fadfad0f1b03852d724862263ce.jar
-/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-admin/build/intermediates/pre-dexed/debug/android-support-v4-c6f17d6c26e8e9b13ee374952d04e540a57f4393.jar
+D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\classes\debug
+D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\jtar-1.1-7d256f5f4188b68883e9454ce6dac66fb078df95.jar
+D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\httpmime-4.2.5-8c3f87ce379446a38a99dc2b1347becb6b1fe574.jar
+D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\classes-6f49de21c600f74f7d08d1280602efbdfb8906f8.jar
+D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\android-support-v4-292df63ee4f16ed9c437683c60ed5af4739df2ef.jar

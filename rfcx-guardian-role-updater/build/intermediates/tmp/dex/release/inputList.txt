@@ -1,5 +1,0 @@
-/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/classes/release
-/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/release/jtar-1.1-6b66f13305f33a256c93c8d56794ed3fd98e414b.jar
-/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/release/httpmime-4.2.5-89f7ceb046701b83157dc686ba693d37f2bba2cb.jar
-/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/release/classes-8731f8df9b205a7edd227fd0b7fb13eff5fece55.jar
-/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/release/android-support-v4-768766f48836f382360f57e5402648002d3f7e61.jar

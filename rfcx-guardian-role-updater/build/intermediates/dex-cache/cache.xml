@@ -2,32 +2,32 @@
 <items version="2" >
 
     <item
-        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/exploded-aar/rfcx-guardian-role-updater/rfcx-guardian-lib-utility/unspecified/classes.jar"
-        jumboMode="false"
-        revision="27.0.0"
-        sha1="7e9d59f62e507cf917393286d925b4ccc1c4fbd2">
-        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/debug/classes-8731f8df9b205a7edd227fd0b7fb13eff5fece55.jar" />
-    </item>
-    <item
-        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/exploded-aar/rfcx-guardian-role-updater/rfcx-guardian-lib-utility/unspecified/libs/jtar-1.1.jar"
-        jumboMode="false"
-        revision="27.0.0"
-        sha1="3852e8d03269dfdb3500175cb09fd7c47a6b4515">
-        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/debug/jtar-1.1-6b66f13305f33a256c93c8d56794ed3fd98e414b.jar" />
-    </item>
-    <item
-        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/exploded-aar/rfcx-guardian-role-updater/rfcx-guardian-lib-utility/unspecified/libs/httpmime-4.2.5.jar"
-        jumboMode="false"
-        revision="27.0.0"
-        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
-        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/debug/httpmime-4.2.5-89f7ceb046701b83157dc686ba693d37f2bba2cb.jar" />
-    </item>
-    <item
-        jar="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/libs/android-support-v4.jar"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\exploded-aar\rfcx-guardian-role-updater\rfcx-guardian-lib-utility\unspecified\libs\android-support-v4.jar"
         jumboMode="false"
         revision="27.0.0"
         sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
-        <dex dex="/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-updater/build/intermediates/pre-dexed/debug/android-support-v4-768766f48836f382360f57e5402648002d3f7e61.jar" />
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\android-support-v4-ea7a2bc34d6e80b87433ae4d4b947b49222a577d.jar" />
+    </item>
+    <item
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\libs\httpmime-4.2.5.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\httpmime-4.2.5-37216b5b8f1a3d72bab21e7e3637408159120d2b.jar" />
+    </item>
+    <item
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\exploded-aar\rfcx-guardian-role-updater\rfcx-guardian-lib-utility\unspecified\libs\jtar-1.1.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="3852e8d03269dfdb3500175cb09fd7c47a6b4515">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\jtar-1.1-a5c69d5c9f57340224efb0b459fe5939df1e017d.jar" />
+    </item>
+    <item
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\exploded-aar\rfcx-guardian-role-updater\rfcx-guardian-lib-utility\unspecified\classes.jar"
+        jumboMode="false"
+        revision="27.0.0"
+        sha1="e5f26a834620fe0660e6a3df74c328af4b598fd9">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\classes-6832883e20c3463f9cf22c55bd909e61fb6f7d60.jar" />
     </item>
 
 </items>

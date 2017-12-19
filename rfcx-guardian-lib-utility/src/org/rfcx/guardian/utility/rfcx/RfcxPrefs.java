@@ -236,13 +236,19 @@ public class RfcxPrefs {
 			
 			put("audio_encode_codec", "opus");
 			put("audio_encode_bitrate", "16384");
+			//@arrglado
 			put("audio_sample_rate", "12000");
+			//
+
 			put("audio_encode_quality", "9");
 			put("audio_encode_skip_threshold", "3");
 			put("audio_encode_cycle_pause", "5000");
 
+			//@arreglado
 			put("checkin_battery_cutoff", "90");
 			put("audio_battery_cutoff", "60");
+			//
+
 			put("install_battery_cutoff", "30");
 			
 			put("checkin_cycle_pause", "5000");

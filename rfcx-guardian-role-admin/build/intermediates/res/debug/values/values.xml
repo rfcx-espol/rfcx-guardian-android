@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-admin/res/values/dimens.xml -->
+    <!-- From: file:/D:/Programacion/PasantiasComunitarias/rfcx-guardian-android/rfcx-guardian-role-admin/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-admin/res/values/strings.xml -->
+    <!-- From: file:/D:/Programacion/PasantiasComunitarias/rfcx-guardian-android/rfcx-guardian-role-admin/res/values/strings.xml -->
     <eat-comment/>
     <string name="app_name">rfcx admin</string>
     <string name="menu_get_prefs">get prefs</string>
     <string name="menu_reboot">reboot</string>
     <string name="menu_root_command">root command</string>
     <string name="menu_screenshot">screenshot</string>
-    <!-- From: file:/home_local/cvr/Desktop/rfcx-guardian-android/rfcx-guardian-role-admin/res/values/styles.xml -->
+    <!-- From: file:/D:/Programacion/PasantiasComunitarias/rfcx-guardian-android/rfcx-guardian-role-admin/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
