@@ -94,7 +94,7 @@ public class AudioEncodeJobService extends Service {
 					if (	// 1) there is a queued audio file in the database
 							(audioToEncode[0] != null)
 							// 2) the device internal battery percentage is at or above the minimum charge threshold
-						&&	(app.deviceBattery.getBatteryChargePercentage(context,null) >= prefsAudioBatteryCutoff)
+								&&	(app.deviceBattery.getBatteryChargePercentage(context,null) >= prefsAudioBatteryCutoff/*0*/)
 						) {
 						
 							File preEncodeFile = new File(audioToEncode[9]);
