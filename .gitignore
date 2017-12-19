@@ -50,3 +50,9 @@ proguard-project.txt
 */.idea/scopes/scope_settings.xml
 */.idea/vcs.xml
 *.iml
+rfcx-guardian-role-admin/.idea/
+rfcx-guardian-role-guardian/.idea/
+rfcx-guardian-role-setup/.idea/
+rfcx-guardian-role-updater/.idea/
+
+
