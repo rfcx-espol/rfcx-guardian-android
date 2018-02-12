@@ -91,9 +91,11 @@ public class RfcxGuardian extends Application implements OnSharedPreferenceChang
 		new String[] { 
 			"AudioCapture",
 			"AudioEncodeLoop",
-			"ApiCheckInLoop",
+			//"ApiCheckInLoop",
 			"DeviceSystem"
 		};
+
+	//public static boolean TERMINATE_ENCODING = true;
 	
 	@Override
 	public void onCreate() {

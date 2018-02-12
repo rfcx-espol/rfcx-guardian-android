@@ -12,6 +12,7 @@ import android.os.IBinder;
 import android.util.Log;
 import guardian.RfcxGuardian;
 
+
 public class AudioCaptureService extends Service {
 
 	private static final String logTag = RfcxLog.generateLogTag(RfcxGuardian.APP_ROLE, AudioCaptureService.class);
@@ -22,6 +23,10 @@ public class AudioCaptureService extends Service {
 	
 	private boolean runFlag = false;
 	private AudioCaptureSvc audioCaptureSvc;
+
+
+
+
 	
 	@Override
 	public IBinder onBind(Intent intent) {
@@ -77,7 +82,7 @@ public class AudioCaptureService extends Service {
 			String captureDir = RfcxAudioUtils.captureDir(context);
 			FileUtils.deleteDirectoryContents(captureDir);
 
-			long prefsCaptureLoopPeriod = (long) app.rfcxPrefs.getPrefAsInt("audio_cycle_duration");
+			long prefsCaptureLoopPeriod = (long) app.rfcxPrefs.getPrefAsInt("audio_cycle_duration") ;
 			int prefsEncodingBitRate = app.rfcxPrefs.getPrefAsInt("audio_encode_bitrate");
 			int prefsAudioSampleRate = app.rfcxPrefs.getPrefAsInt("audio_sample_rate");
 			int prefsAudioBatteryCutoff = app.rfcxPrefs.getPrefAsInt("audio_battery_cutoff");
@@ -91,17 +96,18 @@ public class AudioCaptureService extends Service {
 			try {
 				
 				Log.d(logTag, "Capture Loop Period: "+ prefsCaptureLoopPeriod +"ms");
-				
-				while (audioCaptureService.runFlag) {
+				int counter = 0;
+				while (/*audioCaptureService.runFlag*/ counter <5) {
 					try {
 						
-						if (isBatteryChargeSufficientForCapture && isCaptureAllowedAtThisTimeOfDay) {
+						if (isBatteryChargeSufficientForCapture && isCaptureAllowedAtThisTimeOfDay /*agregado*/ /*&& RfcxGuardian.TERMINATE_ENCODING*/) {
 							
 							// set timestamp of beginning of audio clip
 							captureTimeStamp = System.currentTimeMillis();
 							
 							if (wavRecorder == null) {
 								// initialize and start audio capture
+								Log.d(logTag, "enter here");
 								wavRecorder = AudioCaptureUtils.getWavRecorder(captureDir, captureTimeStamp, "wav", prefsAudioSampleRate);
 								wavRecorder.start();
 							} else {
@@ -123,6 +129,8 @@ public class AudioCaptureService extends Service {
 //							// stop and release recorder
 //							wavRecorder.stop();
 //							wavRecorder.release();
+							//RfcxGuardian.TERMINATE_ENCODING = false;
+							counter++;
 							
 						} else {
 							
@@ -152,8 +160,11 @@ public class AudioCaptureService extends Service {
 				
 				if (wavRecorder != null) {
 					// stop and release recorder
+
 					wavRecorder.stop();
 					wavRecorder.release();
+					stopSelf();
+
 				}
 				
 			} catch (Exception e) {

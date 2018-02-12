@@ -30,6 +30,8 @@ public class AudioEncodeUtils {
 					String encStatus = opusEncoder.transcode(preEncodeFile, postEncodeFile, encodeBitRate, encodeQuality);
 					if (encStatus.equalsIgnoreCase("OK")) { encodeOutputBitRate = encodeBitRate; }
 					Log.d(logTag, "OPUS Encoding Complete: "+encStatus);
+					/*agregado*/
+					//RfcxGuardian.TERMINATE_ENCODING = true;
 					
 				} else if (encodeCodec.equalsIgnoreCase("flac")) {
 					
@@ -38,6 +40,8 @@ public class AudioEncodeUtils {
 					FLAC_FileEncoder.Status encStatus = flacEncoder.encode(preEncodeFile, postEncodeFile);
 					if (encStatus == FLAC_FileEncoder.Status.FULL_ENCODE) { encodeOutputBitRate = 0; }
 					Log.d(logTag, "FLAC Encoding Complete: "+encStatus.name());
+					/*agregado*/
+					//RfcxGuardian.TERMINATE_ENCODING = true;
 					
 				} else {
 					
