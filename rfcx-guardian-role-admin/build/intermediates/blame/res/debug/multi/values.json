@@ -1,0 +1,362 @@
+[
+    {
+        "outputFile": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android-git\\rfcx-guardian-role-admin\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android-git\\rfcx-guardian-role-admin\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android-git\\rfcx-guardian-role-admin\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 47,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android-git\\rfcx-guardian-role-admin\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 52,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android-git\\rfcx-guardian-role-admin\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 266,
+                        "endColumn": 49,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 46,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android-git\\rfcx-guardian-role-admin\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 43,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 58,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android-git\\rfcx-guardian-role-admin\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 111,
+                        "endColumn": 55,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 54,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android-git\\rfcx-guardian-role-admin\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 213,
+                        "endColumn": 51,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android-git\\rfcx-guardian-role-admin\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 877
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android-git\\rfcx-guardian-role-admin\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android\\rfcx-guardian-role-admin\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android\\rfcx-guardian-role-admin\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 92,
+                        "endColumn": 57,
+                        "endOffset": 145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android\\rfcx-guardian-role-admin\\res\\values\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 151,
+                        "endColumn": 55,
+                        "endOffset": 202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 47,
+                    "endOffset": 212
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android\\rfcx-guardian-role-admin\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 47,
+                        "endOffset": 102
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 217,
+                    "endColumn": 52,
+                    "endOffset": 265
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android\\rfcx-guardian-role-admin\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 266,
+                        "endColumn": 49,
+                        "endOffset": 314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 270,
+                    "endColumn": 46,
+                    "endOffset": 312
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android\\rfcx-guardian-role-admin\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 1,
+                        "startOffset": 168,
+                        "endColumn": 43,
+                        "endOffset": 210
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 317,
+                    "endColumn": 58,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android\\rfcx-guardian-role-admin\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 111,
+                        "endColumn": 55,
+                        "endOffset": 165
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 54,
+                    "endOffset": 426
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android\\rfcx-guardian-role-admin\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 1,
+                        "startOffset": 213,
+                        "endColumn": 51,
+                        "endOffset": 263
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 431,
+                    "endLine": 15,
+                    "endColumn": 12,
+                    "endOffset": 717
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android\\rfcx-guardian-role-admin\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 192,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 484
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 722,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 877
+                },
+                "from": {
+                    "file": "D:\\Programacion\\PasantiasComunitarias\\rfcx-guardian-android\\rfcx-guardian-role-admin\\res\\values\\styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 525,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 682
+                    }
+                }
+            }
+        ]
+    }
+]

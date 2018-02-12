@@ -2,32 +2,40 @@
 <items version="2" >
 
     <item
-        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\exploded-aar\rfcx-guardian-role-admin\rfcx-guardian-lib-utility\unspecified\classes.jar"
+        is-multidex="false"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-lib-utility\build\intermediates\bundles\default\libs\android-support-v4.jar"
         jumboMode="false"
+        optimize="true"
         revision="27.0.0"
-        sha1="636a3131ebc1ebff69c52c1f3594321d7cd59c1f">
-        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\classes-6f49de21c600f74f7d08d1280602efbdfb8906f8.jar" />
+        sha1="0c4e6930aae930e5ac8df93e6b73688780918351">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\android-support-v4_f31af3b9d601c256e13baed49bf2a0808694adc4.jar" />
     </item>
     <item
-        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\exploded-aar\rfcx-guardian-role-admin\rfcx-guardian-lib-utility\unspecified\libs\android-support-v4.jar"
+        is-multidex="false"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-lib-utility\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="27.0.0"
-        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
-        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\android-support-v4-292df63ee4f16ed9c437683c60ed5af4739df2ef.jar" />
+        sha1="189c10887bfa675532f6b3e1cae72609fe606692">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\classes_ab1a9de5f7b2b4e6341f3824fd879327b1e1a9fb.jar" />
     </item>
     <item
-        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\exploded-aar\rfcx-guardian-role-admin\rfcx-guardian-lib-utility\unspecified\libs\httpmime-4.2.5.jar"
+        is-multidex="false"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-lib-utility\build\intermediates\bundles\default\libs\jtar-1.1.jar"
         jumboMode="false"
+        optimize="true"
         revision="27.0.0"
-        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
-        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\httpmime-4.2.5-8c3f87ce379446a38a99dc2b1347becb6b1fe574.jar" />
+        sha1="0afe04f6c94b0824983b333abb6195ab8163d939">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\jtar-1.1_7014f989470091106ce2dc63d16b0cbf6d5f587b.jar" />
     </item>
     <item
-        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\exploded-aar\rfcx-guardian-role-admin\rfcx-guardian-lib-utility\unspecified\libs\jtar-1.1.jar"
+        is-multidex="false"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-lib-utility\build\intermediates\bundles\default\libs\httpmime-4.2.5.jar"
         jumboMode="false"
+        optimize="true"
         revision="27.0.0"
-        sha1="3852e8d03269dfdb3500175cb09fd7c47a6b4515">
-        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\jtar-1.1-7d256f5f4188b68883e9454ce6dac66fb078df95.jar" />
+        sha1="c112297afe216aefe0afc3f9721623f478dbccab">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\httpmime-4.2.5_186e4f0fd02e7a42e4f7852321b9a09c79ac64e3.jar" />
     </item>
 
 </items>

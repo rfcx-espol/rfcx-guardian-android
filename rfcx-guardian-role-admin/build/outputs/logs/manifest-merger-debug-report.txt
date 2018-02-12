@@ -1,0 +1,232 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:2:1-92:12
+	package
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:3:5-38
+	android:versionName
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:5:5-32
+		INJECTED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml
+		INJECTED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml
+	android:versionCode
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:4:5-28
+		INJECTED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml
+		INJECTED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:7:5-9:41
+MERGED from [rfcx-guardian-role-admin:rfcx-guardian-lib-utility:unspecified] D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-lib-utility\build\intermediates\bundles\default\AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:8:9-35
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:11:2-78
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:11:19-75
+uses-permission#android.permission.INTERNET
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:12:2-64
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:12:19-61
+uses-permission#android.permission.CALL_PHONE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:13:2-66
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:13:19-63
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:14:2-70
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:14:19-67
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:15:2-73
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:15:19-70
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:16:2-73
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:16:19-70
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:17:2-76
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:17:19-73
+uses-permission#android.permission.SET_TIME_ZONE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:18:2-69
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:18:19-66
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:19:2-72
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:19:19-69
+uses-permission#android.permission.RECEIVE_SMS
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:20:2-67
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:20:19-64
+uses-permission#android.permission.SEND_SMS
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:21:2-64
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:21:19-61
+uses-permission#android.permission.WRITE_SMS
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:22:2-64
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:22:19-62
+uses-permission#android.permission.READ_SMS
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:23:2-63
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:23:19-61
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:24:2-68
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:24:19-65
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:25:2-65
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:25:19-62
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:26:2-71
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:26:19-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:27:2-78
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:27:19-75
+uses-permission#android.permission.WRITE_INTERNAL_STORAGE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:28:2-78
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:28:19-75
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:29:2-78
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:29:19-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:30:2-76
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:30:19-73
+uses-permission#android.permission.CAMERA
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:31:2-62
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:31:19-59
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:32:2-76
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:32:19-73
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:33:2-72
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:33:19-69
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:34:2-77
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:34:19-74
+uses-permission#android.permission.READ_LOGS
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:35:2-65
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:35:19-62
+uses-permission#android.permission.WAKE_LOCK
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:37:2-65
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:37:19-62
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:39:2-75
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:39:19-72
+uses-permission#org.rfcx.guardian.READ
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:41:2-59
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:41:19-56
+uses-permission#org.rfcx.guardian.WRITE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:42:2-60
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:42:19-57
+permission#org.rfcx.guardian.READ
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:43:2-90
+	android:protectionLevel
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:43:52-87
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:43:14-51
+permission#org.rfcx.guardian.WRITE
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:44:2-91
+	android:protectionLevel
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:44:53-88
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:44:14-52
+application
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:46:5-90:19
+	android:label
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:49:9-41
+	android:allowBackup
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:47:9-35
+	android:icon
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:48:9-53
+	android:theme
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:50:9-40
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:51:9-42
+activity#admin.activity.MainActivity
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:56:9-63:20
+	android:label
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:58:13-45
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:57:13-55
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:59:13-62:29
+action#android.intent.action.MAIN
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:60:17-69
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:60:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:61:27-74
+service#admin.service.ScreenShotJobService
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:66:9-70
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:66:18-67
+service#admin.service.AirplaneModeOffJobService
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:67:9-75
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:67:18-72
+service#admin.service.AirplaneModeOnJobService
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:68:9-74
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:68:18-71
+service#admin.service.I2cResetPermissionsJobService
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:69:9-79
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:69:18-76
+service#admin.service.RebootTriggerJobService
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:70:9-73
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:70:18-70
+service#admin.ServiceMonitor
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:73:9-56
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:73:18-53
+receiver#admin.receiver.BootReceiver
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:75:10-81:14
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:75:20-62
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.QUICKBOOT_POWERON+android.intent.category.DEFAULT
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:76:4-80:20
+action#android.intent.action.BOOT_COMPLETED
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:77:5-67
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:77:13-64
+category#android.intent.category.DEFAULT
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:78:5-63
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:78:15-61
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:79:5-70
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:79:13-67
+provider#admin.contentprovider.AdminContentProvider
+ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:83:3-88:37
+	android:readPermission
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:86:11-58
+	android:authorities
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:85:4-49
+	android:exported
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:88:11-34
+	android:name
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:84:7-64
+	android:writePermission
+		ADDED from D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-admin\AndroidManifest.xml:87:11-60

@@ -2,32 +2,40 @@
 <items version="2" >
 
     <item
-        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\exploded-aar\rfcx-guardian-role-updater\rfcx-guardian-lib-utility\unspecified\libs\android-support-v4.jar"
+        is-multidex="false"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-lib-utility\build\intermediates\bundles\default\libs\android-support-v4.jar"
         jumboMode="false"
+        optimize="true"
         revision="27.0.0"
-        sha1="bd6479f5dd592790607e0504e66e0f31c2b4d308">
-        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\android-support-v4-ea7a2bc34d6e80b87433ae4d4b947b49222a577d.jar" />
+        sha1="0c4e6930aae930e5ac8df93e6b73688780918351">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\android-support-v4_f31af3b9d601c256e13baed49bf2a0808694adc4.jar" />
     </item>
     <item
-        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\libs\httpmime-4.2.5.jar"
+        is-multidex="false"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-lib-utility\build\intermediates\bundles\default\classes.jar"
         jumboMode="false"
+        optimize="true"
         revision="27.0.0"
-        sha1="6efc2f9df23c2ac4d3b701a11cab9f9fa6a641d4">
-        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\httpmime-4.2.5-37216b5b8f1a3d72bab21e7e3637408159120d2b.jar" />
+        sha1="189c10887bfa675532f6b3e1cae72609fe606692">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\classes_ab1a9de5f7b2b4e6341f3824fd879327b1e1a9fb.jar" />
     </item>
     <item
-        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\exploded-aar\rfcx-guardian-role-updater\rfcx-guardian-lib-utility\unspecified\libs\jtar-1.1.jar"
+        is-multidex="false"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-lib-utility\build\intermediates\bundles\default\libs\jtar-1.1.jar"
         jumboMode="false"
+        optimize="true"
         revision="27.0.0"
-        sha1="3852e8d03269dfdb3500175cb09fd7c47a6b4515">
-        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\jtar-1.1-a5c69d5c9f57340224efb0b459fe5939df1e017d.jar" />
+        sha1="0afe04f6c94b0824983b333abb6195ab8163d939">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\jtar-1.1_7014f989470091106ce2dc63d16b0cbf6d5f587b.jar" />
     </item>
     <item
-        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\exploded-aar\rfcx-guardian-role-updater\rfcx-guardian-lib-utility\unspecified\classes.jar"
+        is-multidex="false"
+        jar="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-lib-utility\build\intermediates\bundles\default\libs\httpmime-4.2.5.jar"
         jumboMode="false"
+        optimize="true"
         revision="27.0.0"
-        sha1="e5f26a834620fe0660e6a3df74c328af4b598fd9">
-        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\classes-6832883e20c3463f9cf22c55bd909e61fb6f7d60.jar" />
+        sha1="c112297afe216aefe0afc3f9721623f478dbccab">
+        <dex dex="D:\Programacion\PasantiasComunitarias\rfcx-guardian-android-git\rfcx-guardian-role-updater\build\intermediates\pre-dexed\debug\httpmime-4.2.5_186e4f0fd02e7a42e4f7852321b9a09c79ac64e3.jar" />
     </item>
 
 </items>

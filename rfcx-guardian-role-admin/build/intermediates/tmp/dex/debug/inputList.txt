@@ -1,5 +1,0 @@
-D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\classes\debug
-D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\jtar-1.1-7d256f5f4188b68883e9454ce6dac66fb078df95.jar
-D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\httpmime-4.2.5-8c3f87ce379446a38a99dc2b1347becb6b1fe574.jar
-D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\classes-6f49de21c600f74f7d08d1280602efbdfb8906f8.jar
-D:\Programacion\PasantiasComunitarias\rfcx-guardian-android\rfcx-guardian-role-admin\build\intermediates\pre-dexed\debug\android-support-v4-292df63ee4f16ed9c437683c60ed5af4739df2ef.jar
